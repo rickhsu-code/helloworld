@@ -29,4 +29,3 @@ Install binary
 ```bash
 go install
 ```
-#rick123
